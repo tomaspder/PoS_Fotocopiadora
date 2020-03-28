@@ -1,0 +1,6 @@
+  1;  2;    0.90;SIMPLE
+  2;  2;    1.70;DOBLE FAZ
+  3;  2;    3.00;AMPLIACION
+  1;  2;    0.90;SIMPLE
+  2;  2;    1.70;DOBLE FAZ
+  3;  2;    3.00;AMPLIACION

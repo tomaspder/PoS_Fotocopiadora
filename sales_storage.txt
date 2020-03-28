@@ -1,0 +1,14 @@
+  1;  2;    0.90;SIMPLE
+  2;  2;    1.70;DOBLE FAZ
+  3;  2;    3.00;AMPLIACION
+  1;  2;    0.90;SIMPLE
+  2;  2;    1.70;DOBLE FAZ
+  3;  2;    3.00;AMPLIACION
+Cantidad de SIMPLE: 4
+Cantidad de DOBLE FAZ: 4
+Cantidad de AMPLIACION: 4
+Cantidad de COLOR: 0
+Recaudo total: $11.2
+Cierre del dia: 2020-03-27 22:53:48.985083
+
+**************************END**************************
